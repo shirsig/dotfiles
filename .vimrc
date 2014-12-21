@@ -39,11 +39,11 @@ filetype plugin indent on
 syntax on
 "set guifont=Ubuntu\ Mono\ 13
 "set guifont=Monospace\ 10
-"set guioptions-=r
-"set guioptions-=T
-"set guioptions-=m
+set guioptions-=r
+set guioptions-=T
+set guioptions-=m
 set t_Co=256
-" No automatic backup
+" No backup
 set nobackup
 set noswapfile
 set nowb
